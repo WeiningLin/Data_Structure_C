@@ -1,7 +1,7 @@
 ﻿#include "../head.h"
 typedef int ElemType;
 #include "structureDef.h"
-#include "function.c"
+#include "operation.c"
 
 int main ()
 {
